@@ -44,7 +44,7 @@
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
 | **AI, LLMs & ML** | `LLM Agents` `Tool Use / Function Calling` `Structured Outputs` `RAG` `Embeddings` `Semantic Search` `scikit-learn` `CNNs` |
-| **Backend & APIs** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) `REST APIs` `HMAC Auth` `Schema Validation` |
+| **Backend & APIs** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) `REST APIs` `Schema Validation` |
 | **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) `3NF Schema Design` `Query Optimization` |
 | **Frontend & Infra** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
@@ -69,21 +69,9 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🛡️ <a href="https://github.com/cmkeerthz/inkloom">InkloomGuard Security Platform</a></h4>
-      <p>Dual-backend microservice orchestrator linking an Express.js gateway with FastAPI AI inference using constant-time HMAC auth & fail-safe fallbacks.</p>
-      <code>Python</code> <code>FastAPI</code> <code>Node.js</code> <code>Express</code> <code>TypeScript</code>
-    </td>
-    <td width="50%" valign="top">
       <h4>🗄️ <a href="https://github.com/cmkeerthz?tab=repositories">Influencer Management System</a></h4>
       <p>Normalized 3NF relational database architecture and optimized SQL query engine managing creator profiles, brand campaigns, and payments.</p>
       <code>SQL</code> <code>MySQL</code> <code>3NF Schema Design</code> <code>Query Optimization</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>👁️ <a href="https://github.com/cmkeerthz/Driver-Distraction-Detection-Using-CNN">Driver Distraction Detection</a></h4>
-      <p>Real-time computer vision pipeline using Convolutional Neural Networks (CNNs) to classify driver distraction states from visual feeds.</p>
-      <code>Python</code> <code>Deep Learning</code> <code>CNN</code> <code>Computer Vision</code>
     </td>
     <td width="50%" valign="top">
       <h4>🍔 <a href="https://github.com/cmkeerthz/FoodProject-wsa">Food Genie Platform</a></h4>
@@ -94,9 +82,10 @@
 </table>
 
 <details>
-  <summary><b>📂 Click to expand more projects & web builds</b></summary>
+  <summary><b>📂 Click to expand more projects & ML/web builds</b></summary>
   <br/>
   <ul>
+    <li><strong><a href="https://github.com/cmkeerthz/Driver-Distraction-Detection-Using-CNN">Driver Distraction Detection System</a> (Python / CNN):</strong> Real-time computer vision classification pipeline using Convolutional Neural Networks to detect distracted driving states.</li>
     <li><strong>Business Location Predictor (Python / Data Analytics):</strong> Data-driven scoring engine ranking candidate business locations by evaluating customer footfall, local competition, and rental cost signals.</li>
     <li><strong><a href="https://github.com/cmkeerthz/Portfolio">Developer Portfolio</a> & <a href="https://github.com/cmkeerthz/Social_Platform">Social Platform</a>:</strong> Responsive frontend web experiences built with React, JavaScript, HTML5, and CSS3.</li>
   </ul>
@@ -112,6 +101,6 @@ class KeerthanaEngineeringWorkflow:
         return {
             "architecture": "Clean REST / FastAPI microservices + normalized SQL",
             "ai_layer":     "Tool-using LLM agents + semantic retrieval + structured outputs",
-            "reliability":  "Strict schema validation, HMAC security & graceful fallbacks",
+            "reliability":  "Strict schema validation, clean APIs & graceful fallbacks",
             "goal":         "Ship fast, measure quality, and solve real user problems"
         }
