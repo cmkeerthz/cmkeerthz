@@ -74,9 +74,9 @@
       <code>Python</code> <code>FastAPI</code> <code>Node.js</code> <code>Express</code> <code>TypeScript</code>
     </td>
     <td width="50%" valign="top">
-      <h4>✅ <a href="https://github.com/cmkeerthz/failproofai">FailProofAI</a></h4>
-      <p>AI reliability & validation pipeline engineered for structured LLM responses, deterministic verification, and resilient inference execution.</p>
-      <code>TypeScript</code> <code>AI Reliability</code> <code>Structured Outputs</code>
+      <h4>🗄️ <a href="https://github.com/cmkeerthz?tab=repositories">Influencer Management System</a></h4>
+      <p>Normalized 3NF relational database architecture and optimized SQL query engine managing creator profiles, brand campaigns, and payments.</p>
+      <code>SQL</code> <code>MySQL</code> <code>3NF Schema Design</code> <code>Query Optimization</code>
     </td>
   </tr>
   <tr>
@@ -94,19 +94,24 @@
 </table>
 
 <details>
-  <summary><b>📂 Click to expand more projects & database systems</b></summary>
+  <summary><b>📂 Click to expand more projects & web builds</b></summary>
   <br/>
   <ul>
-    <li><strong>Influencer Management System (MySQL / SQL):</strong> Normalized 3NF relational schema managing creator profiles, brand campaigns, and payment tracking with optimized multi-table joins.</li>
+    <li><strong>Business Location Predictor (Python / Data Analytics):</strong> Data-driven scoring engine ranking candidate business locations by evaluating customer footfall, local competition, and rental cost signals.</li>
     <li><strong><a href="https://github.com/cmkeerthz/Portfolio">Developer Portfolio</a> & <a href="https://github.com/cmkeerthz/Social_Platform">Social Platform</a>:</strong> Responsive frontend web experiences built with React, JavaScript, HTML5, and CSS3.</li>
   </ul>
 </details>
 
 ---
 
-### 📊 GitHub Pulse
+### 🧠 How I Build Systems
 
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=cmkeerthz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmkeerthz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+```python
+class KeerthanaEngineeringWorkflow:
+    def build(self, problem: str) -> dict:
+        return {
+            "architecture": "Clean REST / FastAPI microservices + normalized SQL",
+            "ai_layer":     "Tool-using LLM agents + semantic retrieval + structured outputs",
+            "reliability":  "Strict schema validation, HMAC security & graceful fallbacks",
+            "goal":         "Ship fast, measure quality, and solve real user problems"
+        }
