@@ -1,137 +1,112 @@
-<h1 align="center">Hi , I'm [Keerthana]</h1>
-<h3 align="center">
- Full Stack Web Developer | Passionate Problem Solver | Building 
-Modern Web Experiences
-</h3>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?
-font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=
-true&width=800&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+
-%7C+Node.js;Always+Learning+New+Technologies;Let's+Build+Something+A
-wesome!" />
-</p>
+<div align="center">
+
+  <!-- Animated Typing Header -->
+  <a href="https://github.com/cmkeerthz">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Keerthana+Chandirasekar+%F0%9F%91%8B;Building+LLM+Agents+%26+Semantic+Search;Engineering+FastAPI+%26+Full-Stack+Systems;Turning+AI+Ideas+into+Production+Apps" alt="Typing SVG" />
+  </a>
+
+  <p>
+    <strong>AI & Software Engineer</strong> • B.Tech in Artificial Intelligence & Data Science (KPRIET)<br/>
+    <em>Obsessed with intelligent search, multi-agent systems, clean APIs, and shipping things people actually use.</em>
+  </p>
+
+  <!-- Social & Contact Badges -->
+  <p>
+    <a href="https://www.linkedin.com/in/keerthana-chandirasekar-189a55328">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:cmkeerthanapdm@gmail.com">
+      <img src="https://img.shields.io/badge/Email-cmkeerthanapdm%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/cmkeerthz?tab=repositories">
+      <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
+    </a>
+  </p>
+
+</div>
+
 ---
-## About Me
-- I'm a **Full Stack Web Developer** passionate about creating 
-responsive and user-friendly web applications.
-- I enjoy turning ideas into real-world projects.
-- Currently learning **Next.js, TypeScript, and Cloud 
-Technologies**.
-- Open to collaborating on exciting web development and open-
-source projects.
-- Always exploring modern technologies and best development 
-practices.
-- Fun Fact: **I love solving coding challenges and building 
-useful applications.**
+
+### ⚡ Quick Snapshot
+
+- 🔭 **Currently Building:** Conversational AI agents, embedding-based semantic search pipelines, and resilient Python microservices.
+- 🏆 **Highlights:** **Top 50 Finalist** at *CodeNexus India 2026 National Hackathon* (1,000+ teams) & **3rd Place** in Capture the Flag (CTF).
+- 🧩 **Engineering Philosophy:** Clean schemas, strict input/output validation, graceful fallbacks, and zero-fluff UI.
+- 🎯 **Fun Fact:** I enjoy breaking down messy, real-world problems into fast APIs—and occasionally breaking things in CTFs just to see how they're secured.
+
 ---
-## Connect With Me <p align="left">
-<a href="[LinkedIn URL]">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-
-the-badge&logo=linkedin"/>
-</a>
-<a href="[Portfolio URL]">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-
-the-badge&logo=vercel"/>
-</a>
-<a href="mailto:[Email Address]">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-
-badge&logo=gmail"/>
-</a>
-</p>
+
+### 🛠 Tech Stack
+
+<div align="center">
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
+| **AI, LLMs & ML** | `LLM Agents` `Tool Use / Function Calling` `Structured Outputs` `RAG` `Embeddings` `Semantic Search` `scikit-learn` `CNNs` |
+| **Backend & APIs** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) `REST APIs` `HMAC Auth` `Schema Validation` |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) `3NF Schema Design` `Query Optimization` |
+| **Frontend & Infra** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+
+</div>
+
 ---
-# Tech Stack
-<p align="center">
-<img src="https://skillicons.dev/icons?
-i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,
-tailwind,bootstrap,git,github,vscode,figma,postman,npm,vite"/>
-</p>
+
+### 🚀 Featured Engineering Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎯 <a href="https://github.com/cmkeerthz/CampusOpportunityRadar">Campus Opportunity Radar</a></h4>
+      <p>AI-powered opportunity discovery & semantic matching platform helping students find relevant internships and hackathons via smart filtering.</p>
+      <code>Python</code> <code>FastAPI</code> <code>Semantic Search</code> <code>AI/NLP</code> <code>JavaScript</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💊 <a href="https://github.com/cmkeerthz/Team27_PharmaFog">PharmaFog+ Risk Engine</a></h4>
+      <p>Multi-agent clinical decision engine evaluating multi-drug interactions in real time with <code>scikit-learn</code> scoring & deterministic FastAPI checks.</p>
+      <code>Python</code> <code>FastAPI</code> <code>Multi-Agent</code> <code>scikit-learn</code> <code>React</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛡️ <a href="https://github.com/cmkeerthz/inkloom">InkloomGuard Security Platform</a></h4>
+      <p>Dual-backend microservice orchestrator linking an Express.js gateway with FastAPI AI inference using constant-time HMAC auth & fail-safe fallbacks.</p>
+      <code>Python</code> <code>FastAPI</code> <code>Node.js</code> <code>Express</code> <code>TypeScript</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>✅ <a href="https://github.com/cmkeerthz/failproofai">FailProofAI</a></h4>
+      <p>AI reliability & validation pipeline engineered for structured LLM responses, deterministic verification, and resilient inference execution.</p>
+      <code>TypeScript</code> <code>AI Reliability</code> <code>Structured Outputs</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>👁️ <a href="https://github.com/cmkeerthz/Driver-Distraction-Detection-Using-CNN">Driver Distraction Detection</a></h4>
+      <p>Real-time computer vision pipeline using Convolutional Neural Networks (CNNs) to classify driver distraction states from visual feeds.</p>
+      <code>Python</code> <code>Deep Learning</code> <code>CNN</code> <code>Computer Vision</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🍔 <a href="https://github.com/cmkeerthz/FoodProject-wsa">Food Genie Platform</a></h4>
+      <p>Full-stack food ordering web app featuring personalized dish recommendations, user authentication, cart management, and REST APIs.</p>
+      <code>MongoDB</code> <code>Express.js</code> <code>React</code> <code>Node.js</code>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><b>📂 Click to expand more projects & database systems</b></summary>
+  <br/>
+  <ul>
+    <li><strong>Influencer Management System (MySQL / SQL):</strong> Normalized 3NF relational schema managing creator profiles, brand campaigns, and payment tracking with optimized multi-table joins.</li>
+    <li><strong><a href="https://github.com/cmkeerthz/Portfolio">Developer Portfolio</a> & <a href="https://github.com/cmkeerthz/Social_Platform">Social Platform</a>:</strong> Responsive frontend web experiences built with React, JavaScript, HTML5, and CSS3.</li>
+  </ul>
+</details>
+
 ---
-# Featured Projects
-## Portfolio Website
-Modern personal portfolio showcasing projects, skills, and 
-experience. **Tech Stack**
-`HTML` `CSS` `JavaScript` `React`
- Live Demo: [Portfolio URL]
- Repository: [GitHub Repository]
----
-## E-Commerce Website
-A responsive online shopping platform with authentication and cart 
-functionality.
-**Tech Stack**
-`React` `Node.js` `Express` `MongoDB`
- Live Demo: [Project URL]
- Repository: [GitHub Repository]
----
-## Task Management App
-A productivity application to organize daily tasks with 
-authentication.
-**Tech Stack**
-`React` `Firebase` `Tailwind CSS`
- Live Demo: [Project URL]
- Repository: [GitHub Repository]
----
-# GitHub Stats <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?
-username=[GitHubUsername]&show_icons=true&theme=tokyonight&hide_bord
-er=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/
-top-langs/?
-username=[GitHubUsername]&layout=compact&theme=tokyonight&hide_borde
-r=true"/>
-</p>
----
-# GitHub Streak
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?
-user=[GitHubUsername]&theme=tokyonight&hide_border=true"/>
-</p>
----
-# Contribution Graph
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?
-username=[GitHubUsername]&theme=tokyo-night"/>
-</p>
----
-# GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?
-username=[GitHubUsername]&theme=tokyonight&no-frame=true&margin-
-w=10"/>
-</p>
----
-# 🛠 Currently Working On
-- Building full-stack web applications.
-- Learning advanced React ecosystem.
-- Exploring cloud deployment and DevOps.
-- Improving responsive UI/UX design.
----
-# Currently Learning
-- TypeScript
-- Next.js
-- Docker
-- AWS
-- System Design
-- Backend Architecture
----
-# Goals for 2025
-- Contribute to Open Source
-- Build SaaS Applications
-- Master Full Stack Development
-- Learn Cloud Computing
-- Grow My Developer Portfolio
----
-# Favorite Quote > "Code is like humor. When you have to explain it, it's bad." – 
-Cory House
----
-<p align="center">
-<img src="https://komarev.com/ghpvc/?
-username=[GitHubUsername]&label=Profile+Views&color=0e75b6&style=fla
-t"/>
-</p>
----
-<h3 align="center">
- Thanks for visiting my profile! 
-</h3>
-<p align="center">
-If you like my work, consider giving a to my repositories and 
-connecting with me.
-</p>
+
+### 📊 GitHub Pulse
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=cmkeerthz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmkeerthz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
